@@ -12,5 +12,5 @@
      
      
      
-     <img align="right" height="180px" src="https://www.pinterest.com/pin/592786369697612933/.gif" alt="image" />
+  <img align="right" height="180px" src="https://in.pinterest.com/pin/592786369697612933/" alt="image" />
 
