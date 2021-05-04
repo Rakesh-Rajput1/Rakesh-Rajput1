@@ -1,4 +1,6 @@
-### Hii I'm Rakesh Rajput ![wave](https://user-images.githubusercontent.com/82255254/117077912-8ed44200-ad56-11eb-8a04-bf0adcd6a4a7.gif)small
+### Hii I'm Rakesh Rajput 
+![wave](https://user-images.githubusercontent.com/82255254/117078435-7d3f6a00-ad57-11eb-93ae-9b680ea0dcc7.gif,width=10)
+
 
 
 
