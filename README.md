@@ -1,5 +1,4 @@
-### Hii I'm Rakesh Rajput 
-![wave](https://user-images.githubusercontent.com/82255254/117078435-7d3f6a00-ad57-11eb-93ae-9b680ea0dcc7.gif,width=100)
+# Hii I'm Rakesh Rajput  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
 
