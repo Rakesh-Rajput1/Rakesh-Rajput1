@@ -1,5 +1,5 @@
 ### Hii I'm Rakesh Rajput 
-![wave](https://user-images.githubusercontent.com/82255254/117078435-7d3f6a00-ad57-11eb-93ae-9b680ea0dcc7.gif,width=10)
+![wave](https://user-images.githubusercontent.com/82255254/117078435-7d3f6a00-ad57-11eb-93ae-9b680ea0dcc7.gif,width=100)
 
 
 
