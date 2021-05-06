@@ -1,5 +1,5 @@
 # Hii I'm Rakesh Rajput  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-<img align="right" height="180px"  src="https://img.17qq.com/images/arsuaahqucx.gif" alt ="image" />
+<img align="right" height="180px" src="https://raw.githubusercontent.com/Rakesh-Rajput1/image1/main/tenor.gif" alt="image" />
 <p align="left">
      
 I am Currently Pursuing my Bachelor of Technology Degree from Delhi Technological University (Formerly DCE)🎓.
