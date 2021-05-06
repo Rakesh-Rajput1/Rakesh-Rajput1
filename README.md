@@ -7,7 +7,7 @@ I am Currently Pursuing my Bachelor of Technology Degree from Delhi Technologica
 - My interest areas include Data Science Brain Computer Interface,Machine Learning, Robotics and Deep Learning🤵✔.
 
 
-<img align="middle" height="200px" src="https://raw.githubusercontent.com/Rakesh-Rajput1/image1/main/office.gif" alt="image" />
+<img align="Middle" height="300px" src="https://raw.githubusercontent.com/Rakesh-Rajput1/image1/main/office.gif" alt="image" />
 
      
      
