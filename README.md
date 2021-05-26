@@ -1,5 +1,6 @@
 # Hii I'm Rakesh Rajput  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-<img align="right" height="180px" src="https://raw.githubusercontent.com/Rakesh-Rajput1/image1/main/tenor.gif" alt="image" />
+<img align="right" height="180px" src="https://raw.githubusercontent.com/Rakesh-Rajput1/image1/main/office.gif" alt="image" />
+
 <p align="center">
  
  
@@ -10,7 +11,7 @@ I am Currently Pursuing my Bachelor of Technology Degree from Delhi Technologica
 
 
 
-<img align="center" height="400px" width="700"  src="https://raw.githubusercontent.com/Rakesh-Rajput1/image1/main/office.gif" alt="image" />
+
 
 
 
